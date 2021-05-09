@@ -1,0 +1,138 @@
+patternsJava/creationalPatternsJava/singleton/SingletonJavaTest.java
+ patternsJava.creationalPatternsJava.singleton.SingletonJavaTest
+patternsJava/creationalPatternsJava/abstractFactory/StarCraftJava.java
+ patternsJava.creationalPatternsJava.abstractFactory.ARCJava
+ patternsJava.creationalPatternsJava.abstractFactory.Builder
+ patternsJava.creationalPatternsJava.abstractFactory.BuildingJava
+ patternsJava.creationalPatternsJava.abstractFactory.InfantryJava
+ patternsJava.creationalPatternsJava.abstractFactory.InfantryUnitsJava
+ patternsJava.creationalPatternsJava.abstractFactory.Soldier
+ patternsJava.creationalPatternsJava.abstractFactory.StarCraftJava
+ patternsJava.creationalPatternsJava.abstractFactory.TankJava
+ patternsJava.creationalPatternsJava.abstractFactory.UnitJava
+ patternsJava.creationalPatternsJava.abstractFactory.VehicleJava
+ patternsJava.creationalPatternsJava.abstractFactory.VehicleUnitsJava
+ patternsJava.creationalPatternsJava.abstractFactory.Warrior
+ patternsJava.creationalPatternsJava.abstractFactory.ZergBuilder
+ patternsJava.creationalPatternsJava.abstractFactory.ZergBuilder$1
+ patternsJava.creationalPatternsJava.abstractFactory.ZergBuilder$2
+patternsJava/behaviorPatterns/strategyJava/duck/Fly/FlyBehavior.java
+ patternsJava.behaviorPatterns.strategyJava.duck.Fly.FlyBehavior
+patternsJava/behaviorPatterns/observerJava/watherDataJava/displayElements/StatisticsDisplay.java
+ patternsJava.behaviorPatterns.observerJava.watherDataJava.displayElements.StatisticsDisplay
+patternsJava/behaviorPatterns/strategyJava/GameExample/character/King.java
+ patternsJava.behaviorPatterns.strategyJava.GameExample.character.King
+patternsJava/behaviorPatterns/strategyJava/GameExample/MainClass.java
+ patternsJava.behaviorPatterns.strategyJava.GameExample.MainClass
+patternsJava/behaviorPatterns/strategyJava/duck/Quack/Quack.java
+ patternsJava.behaviorPatterns.strategyJava.duck.Quack.Quack
+patternsJava/behaviorPatterns/strategyJava/GameExample/weaponBehavior/WeaponBehavior.java
+ patternsJava.behaviorPatterns.strategyJava.GameExample.weaponBehavior.WeaponBehavior
+patternsJava/behaviorPatterns/strategyJava/duck/Fly/FlyRocketPowered.java
+ patternsJava.behaviorPatterns.strategyJava.duck.Fly.FlyRocketPowered
+patternsJava/behaviorPatterns/strategyJava/GameExample/character/Character.java
+ patternsJava.behaviorPatterns.strategyJava.GameExample.character.Character
+patternsJava/behaviorPatterns/strategyJava/GameExample/character/Quin.java
+ patternsJava.behaviorPatterns.strategyJava.GameExample.character.Quin
+patternsJava/behaviorPatterns/observerJava/watherDataJava/displayElements/ForecastDisplay.java
+ patternsJava.behaviorPatterns.observerJava.watherDataJava.displayElements.ForecastDisplay
+patternsJava/behaviorPatterns/strategyJava/GameExample/character/Troll.java
+ patternsJava.behaviorPatterns.strategyJava.GameExample.character.Troll
+patternsJava/behaviorPatterns/strategyJava/duck/Quack/MuteQuack.java
+ patternsJava.behaviorPatterns.strategyJava.duck.Quack.MuteQuack
+patternsJava/behaviorPatterns/observerJava/watherDataJava/displayElements/DisplayElement.java
+ patternsJava.behaviorPatterns.observerJava.watherDataJava.displayElements.DisplayElement
+patternsJava/behaviorPatterns/observerJava/anotherExample/MainObject.java
+ patternsJava.behaviorPatterns.observerJava.anotherExample.MainObject
+patternsJava/behaviorPatterns/strategyJava/GameExample/weapons/Weapon.java
+ patternsJava.behaviorPatterns.strategyJava.GameExample.weapons.Weapon
+patternsJava/behaviorPatterns/strategyJava/duck/MiniDuckSimulations.java
+ patternsJava.behaviorPatterns.strategyJava.duck.MiniDuckSimulations
+patternsJava/behaviorPatterns/strategyJava/GameExample/weaponBehavior/BowBehavior.java
+ patternsJava.behaviorPatterns.strategyJava.GameExample.weaponBehavior.BowBehavior
+patternsJava/behaviorPatterns/strategyJava/GameExample/character/Knight.java
+ patternsJava.behaviorPatterns.strategyJava.GameExample.character.Knight
+patternsJava/behaviorPatterns/strategyJava/GameExample/weapons/DarkKnife.java
+ patternsJava.behaviorPatterns.strategyJava.GameExample.weapons.DarkKnife
+patternsJava/behaviorPatterns/strategyJava/duck/ducks/RedDuck.java
+ patternsJava.behaviorPatterns.strategyJava.duck.ducks.RedDuck
+ patternsJava.behaviorPatterns.strategyJava.duck.ducks.RedDuck$1
+patternsJava/behaviorPatterns/observerJava/watherDataJava/WeatherData.java
+ patternsJava.behaviorPatterns.observerJava.watherDataJava.WeatherData
+notes/GenericsJava.java
+ notes.Generic
+ notes.GenericsJava
+patternsJava/behaviorPatterns/strategyJava/duck/ducks/ModelDuck.java
+ patternsJava.behaviorPatterns.strategyJava.duck.ducks.ModelDuck
+patternsJava/creationalPatternsJava/factory/FactoryJava.java
+ patternsJava.creationalPatternsJava.factory.Audi
+ patternsJava.creationalPatternsJava.factory.Car
+ patternsJava.creationalPatternsJava.factory.Factory
+ patternsJava.creationalPatternsJava.factory.FactoryJava
+ patternsJava.creationalPatternsJava.factory.Toyota
+patternsJava/behaviorPatterns/observerJava/anotherExample/Subject.java
+ patternsJava.behaviorPatterns.observerJava.anotherExample.Subject
+patternsJava/behaviorPatterns/strategyJava/GameExample/weaponBehavior/KnifeBehavior.java
+ patternsJava.behaviorPatterns.strategyJava.GameExample.weaponBehavior.KnifeBehavior
+patternsJava/structuralPatterns/DecoratorJava.java
+ patternsJava.structuralPatterns.DecoratorJava
+patternsJava/behaviorPatterns/observerJava/watherDataJava/displayElements/ThirdPartyDisplay.java
+ patternsJava.behaviorPatterns.observerJava.watherDataJava.displayElements.ThirdPartyDisplay
+patternsJava/behaviorPatterns/observerJava/anotherExample/Observer.java
+ patternsJava.behaviorPatterns.observerJava.anotherExample.Observer
+patternsJava/behaviorPatterns/strategyJava/duck/Fly/FlyWithWings.java
+ patternsJava.behaviorPatterns.strategyJava.duck.Fly.FlyWithWings
+patternsJava/behaviorPatterns/strategyJava/GameExample/weapons/RedKnife.java
+ patternsJava.behaviorPatterns.strategyJava.GameExample.weapons.RedKnife
+patternsJava/behaviorPatterns/strategyJava/duck/Quack/Squack.java
+ patternsJava.behaviorPatterns.strategyJava.duck.Quack.Squack
+patternsJava/behaviorPatterns/observerJava/anotherExample/MainClass.java
+ patternsJava.behaviorPatterns.observerJava.anotherExample.MainClass
+patternsJava/creationalPatternsJava/singleton/SingletonJava.java
+ patternsJava.creationalPatternsJava.singleton.SingletonJava
+patternsJava/behaviorPatterns/observerJava/watherDataJava/WeatherStation.java
+ patternsJava.behaviorPatterns.observerJava.watherDataJava.WeatherStation
+patternsJava/behaviorPatterns/strategyJava/duck/Fly/FlyNoWay.java
+ patternsJava.behaviorPatterns.strategyJava.duck.Fly.FlyNoWay
+patternsJava/behaviorPatterns/strategyJava/GameExample/weapons/LongBow.java
+ patternsJava.behaviorPatterns.strategyJava.GameExample.weapons.LongBow
+patternsJava/behaviorPatterns/observerJava/anotherExample/Display.java
+ patternsJava.behaviorPatterns.observerJava.anotherExample.Display
+patternsJava/creationalPatternsJava/factory/StaticFactoryMethodJava.java
+ patternsJava.creationalPatternsJava.factory.Aa
+ patternsJava.creationalPatternsJava.factory.Bb
+ patternsJava.creationalPatternsJava.factory.StaticFactoryMethodJava
+patternsJava/behaviorPatterns/strategyJava/GameExample/weapons/WarAxe.java
+ patternsJava.behaviorPatterns.strategyJava.GameExample.weapons.WarAxe
+patternsJava/behaviorPatterns/strategyJava/duck/ducks/MallardDuck.java
+ patternsJava.behaviorPatterns.strategyJava.duck.ducks.MallardDuck
+patternsJava/behaviorPatterns/observerJava/watherDataJava/displayElements/Observer.java
+ patternsJava.behaviorPatterns.observerJava.watherDataJava.displayElements.Observer
+patternsJava/creationalPatternsJava/factory/FactoryMethodJava.java
+ patternsJava.creationalPatternsJava.factory.FactoryMethodJava
+patternsJava/behaviorPatterns/strategyJava/duck/ducks/Duck.java
+ patternsJava.behaviorPatterns.strategyJava.duck.ducks.Duck
+patternsJava/behaviorPatterns/observerJava/watherDataJava/Subject.java
+ patternsJava.behaviorPatterns.observerJava.watherDataJava.Subject
+patternsJava/behaviorPatterns/observerJava/anotherExample/NextObject.java
+ patternsJava.behaviorPatterns.observerJava.anotherExample.NextObject
+patternsJava/behaviorPatterns/strategyJava/duck/Quack/QuackBehavior.java
+ patternsJava.behaviorPatterns.strategyJava.duck.Quack.QuackBehavior
+patternsJava/behaviorPatterns/observerJava/watherDataJava/displayElements/CurrentConditionDisplay.java
+ patternsJava.behaviorPatterns.observerJava.watherDataJava.displayElements.CurrentConditionDisplay
+patternsJava/structuralPatterns/decoratorJava/CoffeExample/Mocha.java
+ patternsJava.structuralPatterns.decoratorJava.CoffeExample.Mocha
+patternsJava/structuralPatterns/decoratorJava/CoffeExample/CondimentDecorator.java
+ patternsJava.structuralPatterns.decoratorJava.CoffeExample.CondimentDecorator
+patternsJava/structuralPatterns/decoratorJava/CoffeExample/Beverage.java
+ patternsJava.structuralPatterns.decoratorJava.CoffeExample.Beverage
+patternsJava/structuralPatterns/decoratorJava/CoffeExample/HoseBlend.java
+ patternsJava.structuralPatterns.decoratorJava.CoffeExample.HoseBlend
+patternsJava/structuralPatterns/decoratorJava/CoffeExample/Espresso.java
+ patternsJava.structuralPatterns.decoratorJava.CoffeExample.Espresso
+patternsJava/structuralPatterns/decoratorJava/CoffeExample/MainClass.java
+ patternsJava.structuralPatterns.decoratorJava.CoffeExample.MainClass
+patternsJava/structuralPatterns/anotherExample/LowerCaseInputStream.java
+ patternsJava.structuralPatterns.anotherExample.LowerCaseInputStream
+patternsJava/structuralPatterns/anotherExample/InputTest.java
+ patternsJava.structuralPatterns.anotherExample.InputTest
